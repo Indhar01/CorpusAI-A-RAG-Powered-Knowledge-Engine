@@ -1,7 +1,4 @@
----
-
 <div align="center">
-  <img src="https://i.imgur.com/8zU4V2W.png" alt="CorpusAI Logo" width="150"/>
   <h1>CorpusAI: A RAG-Powered Knowledge Engine</h1>
   <p>
     An intelligent engine for unifying and querying your internal knowledge corpus—support tickets, knowledge bases, and other documents—using the power of Retrieval-Augmented Generation.
@@ -142,5 +139,6 @@ Contributions are welcome! If you have ideas for new features, bug fixes, or imp
 ---
 
 ## 📜 License
+
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
